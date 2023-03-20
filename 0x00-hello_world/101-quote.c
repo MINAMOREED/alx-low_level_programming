@@ -2,9 +2,11 @@
 
 /**
  * main -Entry point
+ *
  * Description : print a qoute using write function
- * 	write(int fd.const void *buf.sive-t count)
- * Return: 1(not succcess)
+ * 	ssize-t write(int fd.const void *buf.sive-t count);
+ * 
+ * Return: 1(not succcess).
 */
 
 int main (void)
